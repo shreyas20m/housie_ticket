@@ -9,6 +9,6 @@ HOW TO RUN CODE
 
 SAMPLE OUTPUT
 
-  8   X   27  X   X   56  66  77  X
-  9   18  28  X   X   X   67  X   87
-  X   19  X   36  46  57  X   X   88  
+  - 8   X   27  X   X   56  66  77  X
+  - 9   18  28  X   X   X   67  X   87
+  - X   19  X   36  46  57  X   X   88  
